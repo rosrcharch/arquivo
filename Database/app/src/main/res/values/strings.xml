@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="tLogin">Login</string>
+    <string name="tSenha">senha</string>
+    <string name="btLogin">Login</string>
+    <string name="btCadastrar">Cadastrar</string>
+</resources>

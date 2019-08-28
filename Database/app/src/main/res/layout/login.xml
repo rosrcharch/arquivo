@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="101dp"
+        android:layout_height="47dp"
+        android:text="Usuario"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <EditText
+        android:id="@+id/tLogin"
+        android:layout_width="287dp"
+        android:layout_height="47dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:ems="10"
+        android:hint="Nome"
+        android:inputType="textPersonName"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="101dp"
+        android:layout_height="47dp"
+        android:text="Senha"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="63dp" />
+
+    <EditText
+        android:id="@+id/tSenha"
+        android:layout_width="288dp"
+        android:layout_height="47dp"
+        android:ems="10"
+        android:hint="senha"
+        android:inputType="textPassword"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="63dp" />
+
+    <Button
+        android:id="@+id/btLogin"
+        android:layout_width="259dp"
+        android:layout_height="45dp"
+        android:width="2dp"
+        android:background="@drawable/botao_customizado"
+        android:color="@android:color/holo_red_dark"
+        android:shape="rectangle"
+        android:text="Acessar"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="539dp" />
+
+    <Button
+        android:id="@+id/btCadastrar"
+        android:layout_width="255dp"
+        android:layout_height="46dp"
+        android:background="@drawable/botao_customizado"
+        android:text="Cadastro"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="600dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <TextView
+        android:id="@+id/tipoBanco"
+        android:layout_width="match_parent"
+        android:layout_marginHorizontal="0.2dp"
+        android:layout_height="50dp"
+        android:text="Banco:"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/tipoConta"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginHorizontal="0.2dp"
+        android:fontFamily="casual"
+        android:text="Tipo da conta:"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/numeroAgencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="0.2dp"
+        android:fontFamily="casual"
+        android:text="Numero da agencia:"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/numeroConta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="0.2dp"
+        android:fontFamily="casual"
+        android:text="Numero da conta:"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/numeroCaixa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="0.2dp"
+        android:fontFamily="casual"
+        android:text="Numero do caixa:"
+        android:textSize="25dp" />
+
+
+</LinearLayout>

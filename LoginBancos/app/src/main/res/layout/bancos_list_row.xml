@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:layout_alignBaseline="@+id/tipoBanco"
+    android:clickable="true"
+    android:focusable="true"
+    android:gravity="top"
+    >
+
+
+    <TextView
+        android:id="@+id/tipoBanco"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorAccent"
+        android:layout_marginHorizontal="0.2dp"
+        android:text="Banco:"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/tipoConta"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorPrimary"
+        android:layout_marginHorizontal="0.2dp"
+        android:fontFamily="casual"
+        android:text="Tipo da conta:"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/numeroAgencia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:layout_marginHorizontal="0.2dp"
+        android:fontFamily="casual"
+        android:text="Numero da agencia:"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/numeroConta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:layout_marginHorizontal="0.2dp"
+        android:fontFamily="casual"
+        android:text="Numero da conta:"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/numeroCaixa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:layout_marginHorizontal="0.2dp"
+        android:fontFamily="casual"
+        android:text="Numero do caixa:"
+        android:textSize="25dp" />
+
+</LinearLayout>
