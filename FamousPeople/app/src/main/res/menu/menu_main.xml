@@ -3,8 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.famouspeople.MainActivity">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/adicionar"
+        android:icon="@android:drawable/ic_input_add"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+        android:title="adicionar"
+        android:onClick="cadastrar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/listar"
+        android:icon="@android:drawable/ic_menu_zoom"
+        android:orderInCategory="101"
+        android:title="listar"
+        app:showAsAction="ifRoom" />
 </menu>

@@ -14,6 +14,7 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 
 import android.util.Log;
+import android.view.MenuInflater;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -69,6 +70,20 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, CreateUser.class));
             }
         });
+    }
+
+
+    public boolean onCreateOptionsMenu(Menu menu) {
+
+        MenuInflater i = getMenuInflater();
+        i.inflate(R.menu.menu_main, menu);
+        return true;
+
+    }
+
+    public void cadastrar(MenuItem item){
+        startActivity(new Intent(MainActivity.this, CreateUser.class));
+
     }
 
 }
