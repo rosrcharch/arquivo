@@ -1,0 +1,4 @@
+#Wed Sep 11 16:07:20 BRT 2019
+base.0=C\:\\Users\\treinamento\\Desktop\\Meus projetos\\MaterialTheme\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>androidx.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.3.0-alpha02</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.test</group-id>
+        <name>runner</name>
+        <version>1.3.0-alpha02</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.dagger</group-id>
+        <name>dagger</name>
+        <version>2.24</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.dagger</group-id>
+        <name>dagger-compiler</name>
+        <version>2.24</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.constraintlayout</group-id>
+        <name>constraintlayout</name>
+        <version>2.0.0-beta2</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-3</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.appcompat</group-id>
+        <name>appcompat</name>
+        <version>1.1.0-rc01</version>
+        <repository>Google</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1567085351539</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fe4c523-5ae6-4536-87cc-50b94524162d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignmentapplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/Fragments/FilmesFragments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/FilmeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/Filmes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/RecyclerViewOnClickListenerDuque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/TelaLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/adapter/FilmesAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-anydpi/ic_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-anydpi/ic_map.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-anydpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-hdpi/ic_login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-hdpi/ic_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-mdpi/ic_login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-mdpi/ic_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/assaltoaoarkham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/badblood.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/bancodobrasil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/batmanvsrobim.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/bradesco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/caixa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/filhodobatman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/flash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/flashpoint.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/guerra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/inter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/itau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/nubank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/safra.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/santander.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/tronodeatlantis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-xhdpi/ic_login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-xhdpi/ic_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-xxhdpi/ic_login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-xxhdpi/ic_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable/botao_customizado.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable/ic_search_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/font/dancing_script.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/font/lobster_italic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/font/lobster_regular.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout-v21/activity_bancos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_bancos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/bancos_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/fragments_filmes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/lista_filmes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/lista_filmes_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/refs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/test/java/com/example/famouspeople/EmailValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaLivros/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaterialTheme/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaterialTheme/app/src/main/java/com/example/materialtheme/TextFild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaterialTheme/app/src/main/res/layout/activity_text_fild.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaterialTheme/app/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/AppDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/database/AppDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/CreateUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/CreateUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/main/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/TelaLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/database/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/UserAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/adapter/UserAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/database/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_tela_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_tela_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/create_user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/create_user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/user_row.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/user_row.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poort" beforeDir="false" afterPath="$PROJECT_DIR$/../poort" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="50" selection-start-line="29" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/AndroidAplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dagger2/AndroidApplication.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dagger2/AndroidAplication.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dagger2/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dagger2/Car.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/dagger2/Engine.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1293" />
+    <option name="height" value="565" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dagger2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Dagger2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="Dagger2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dagger2" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dagger2" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BasicDagger" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.dagger2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fe4c523-5ae6-4536-87cc-50b94524162d" name="Default Changelist" comment="" />
+      <created>1567083122939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567083122939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18770227" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.3298731" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3298731" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/AndroidApplication.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="50" selection-start-line="29" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/AndroidAplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dagger2/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
