@@ -7,67 +7,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="267abd28-30c5-4196-96ba-d64201bb64e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/Fragments/FilmesFragments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/Bancos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/Filmes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/RecyclerViewOnClickListenerDuque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/TelaLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/adapter/FilmesAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-anydpi/ic_login.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-anydpi/ic_map.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-hdpi/ic_login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-hdpi/ic_map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-mdpi/ic_login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-mdpi/ic_map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/assaltoaoarkham.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/badblood.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/bancodobrasil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/batmanvsrobim.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/bradesco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/caixa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/filhodobatman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/flash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/flashpoint.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/guerra.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/inter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/itau.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/nubank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/safra.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/santander.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-v24/tronodeatlantis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-xhdpi/ic_login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-xhdpi/ic_map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-xxhdpi/ic_login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable-xxhdpi/ic_map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable/botao_customizado.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/drawable/ic_search_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_bancos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/bancos_layout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/fragments_filmes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/lista_filmes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/refs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListaLivros/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/AppDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/database/AppDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/CreateUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/activity/CreateUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/main/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/TelaLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/database/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/UserAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/adapter/UserAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/java/com/example/famouspeople/database/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_tela_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/activity_tela_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/content_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/create_user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/create_user.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/user_row.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/layout/user_row.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/menu/menu_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FamousPeople/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicDagger/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_google_dagger_dagger_2_21_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_61_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_2_61_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_61_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicDagger/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicDagger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/BasicDagger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicDagger/BasicDagger.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicDagger/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialTheme/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialTheme/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialTheme/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialTheme/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialTheme/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialTheme/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialTheme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialTheme/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialTheme/MaterialTheme.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialTheme/MaterialTheme.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialTheme/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-components-android" beforeDir="false" afterPath="$PROJECT_DIR$/../material-components-android" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nosso-chate" beforeDir="false" afterPath="$PROJECT_DIR$/../nosso-chate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../poort" beforeDir="false" afterPath="$PROJECT_DIR$/../poort" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,6 +81,10 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -86,56 +96,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/googleapp/MapsActivity.java">
+        <entry file="file://$PROJECT_DIR$/local.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="155" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="128" selection-start-line="22" selection-start-column="128" selection-end-line="22" selection-end-column="128" />
+            <state relative-caret-position="153">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/example/googleapp/BuildConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="32" selection-end-column="15" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="51">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -167,57 +140,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
             <path>
               <item name="GoogleApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
             </path>
             <path>
               <item name="GoogleApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
             </path>
             <path>
               <item name="GoogleApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="GoogleApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="googleapp" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoogleApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="GoogleApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="GoogleApp" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="googleapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="3496966c7d2b" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MaterialTheme" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -309,6 +262,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2540453" />
@@ -337,48 +291,25 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" />
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/googleapp/MapsActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml">
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/example/googleapp/BuildConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="32" selection-end-column="15" />
+        <state relative-caret-position="51">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="128" selection-start-line="22" selection-start-column="128" selection-end-line="22" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/googleapp/MapsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="155" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
     </entry>
   </component>
 </project>
